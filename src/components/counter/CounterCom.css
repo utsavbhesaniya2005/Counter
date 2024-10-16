@@ -1,0 +1,21 @@
+.count{
+    background-color: #222831;
+    margin-top: 15px;
+    width: 100%;
+    text-align: center;
+    padding: 25px;
+}
+.btn1{
+    background-color: #00ADB5;
+    color: #EEEEEE;
+    padding: 10px 30px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    font-size: 42px;
+}
+.display{
+    color: #EEEEEE;
+    margin: 5px 15px;
+    font-size: 42px;
+}
